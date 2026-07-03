@@ -1,8 +1,6 @@
-github_users:
-  - du-ouyang
+github_users: []
 
 repo_description_lines_max: 2
 
 github_repos:
-  - du-ouyang/du-ouyang.github.io
   - du-ouyang/ZO4PDE
