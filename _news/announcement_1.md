@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Du Ouyang received the Ph.D. in Mathematics with Distinction from Tsinghua University.
-

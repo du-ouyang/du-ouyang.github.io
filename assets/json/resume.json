@@ -29,9 +29,7 @@
       "startDate": "2024-09-01",
       "endDate": "2026-02-01",
       "summary": "Advisor: Prof. Yanwei Jia. Conducted research on continuous-time reinforcement learning.",
-      "highlights": [
-        "Visited from September 2024 to March 2025 and from July 2025 to February 2026."
-      ]
+      "highlights": ["Visited from September 2024 to March 2025 and from July 2025 to February 2026."]
     }
   ],
   "education": [
@@ -44,10 +42,7 @@
       "endDate": "2026-06-01",
       "score": "",
       "courses": [],
-      "highlights": [
-        "Department of Mathematical Sciences",
-        "Supervisor: Prof. Xiaoqun Wang"
-      ]
+      "highlights": ["Department of Mathematical Sciences", "Supervisor: Prof. Xiaoqun Wang"]
     },
     {
       "institution": "Wuhan University",
@@ -58,9 +53,7 @@
       "endDate": "2021-06-01",
       "score": "",
       "courses": [],
-      "highlights": [
-        "School of Mathematics and Statistics"
-      ]
+      "highlights": ["School of Mathematics and Statistics"]
     }
   ],
   "awards": [
@@ -134,25 +127,16 @@
     {
       "name": "Teaching",
       "icon": "fa-solid fa-chalkboard-user",
-      "keywords": [
-        "Calculus",
-        "Probability Theory",
-        "Probability Theory and Mathematical Statistics"
-      ]
+      "keywords": ["Calculus", "Probability Theory", "Probability Theory and Mathematical Statistics"]
     }
   ],
   "projects": [
     {
       "name": "Adaptive Two-Level Quasi-Monte Carlo for Soft Actor-Critic",
       "summary": "ICML 2024 Workshop: Aligning Reinforcement Learning Experimentalists and Theorists.",
-      "highlights": [
-        "Quasi-Monte Carlo",
-        "Soft Actor-Critic",
-        "Reinforcement Learning"
-      ],
+      "highlights": ["Quasi-Monte Carlo", "Soft Actor-Critic", "Reinforcement Learning"],
       "startDate": "2024-01-01",
       "endDate": "2024-01-01"
     }
   ]
 }
-
