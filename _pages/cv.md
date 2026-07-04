@@ -11,7 +11,7 @@ description: Academic CV for Du Ouyang.
 
 ## About
 
-I am **Du Ouyang**, a Ph.D. graduate in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University, supervised by Prof. Xiaoqun Wang. My research lies at the intersection of stochastic control, reinforcement learning, and numerical analysis, with recent work on continuous-time reinforcement learning, stochastic policy approximation, and learning-based methods for nonlinear PDEs.
+I am **Du Ouyang**, a Ph.D. graduate in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University, supervised by Prof. Xiaoqun Wang. My research lies at the intersection of quasi-Monte Carlo methods, stochastic control, reinforcement learning, and numerical analysis, with work on high-dimensional integration and simulation, continuous-time reinforcement learning, stochastic policy approximation, and learning-based methods for nonlinear PDEs.
 
 ## Academic Exchange
 
@@ -43,6 +43,9 @@ Sep. 2017 -- Jun. 2021
 
 ## Research Areas
 
+- Quasi-Monte Carlo methods and randomized QMC
+- Importance sampling and high-dimensional integration
+- SDE simulation and dimensionality reduction
 - Stochastic control
 - Continuous-time reinforcement learning
 - Stochastic policy approximation
