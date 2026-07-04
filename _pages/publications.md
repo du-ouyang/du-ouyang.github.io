@@ -24,15 +24,15 @@ nav_order: 2
 ## Working Papers
 
 1. **Quasi-Monte Carlo integration over $\mathbb{R}^s$ with boundary-damping importance sampling**<br>
-   Zexin Pan, **Du Ouyang**, and Zhijian He. Under review at *SIAM Review*.<br>
+   Zexin Pan, **Du Ouyang**, and Zhijian He. Submitted.<br>
    Links: [arXiv: 2509.07509](https://arxiv.org/abs/2509.07509)
 
 2. **Uncertainty quantification using importance-sampled quasi-Monte Carlo with dimension-independent convergence rates**<br>
-   Zexin Pan, **Du Ouyang**, and Zhijian He. Under review at *SIAM Journal on Numerical Analysis*.<br>
+   Zexin Pan, **Du Ouyang**, and Zhijian He. Submitted.<br>
    Links: [arXiv: 2603.00843](https://arxiv.org/abs/2603.00843)
 
 3. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
-   Yanwei Jia, **Du Ouyang**, Huy&#92;^en Pham, and Xun Yu Zhou. Submitted to *Journal of Machine Learning Research*. *Alphabetical order.*<br>
+   Yanwei Jia, **Du Ouyang**, Huy&#92;^en Pham, and Xun Yu Zhou. Submitted. *Alphabetical order.*<br>
    Links: [arXiv: 2606.24999](https://arxiv.org/abs/2606.24999)
 
 4. **Quasi-Monte Carlo for SDE simulation: Error analysis and dimensionality reduction**<br>
