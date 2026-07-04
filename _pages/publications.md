@@ -32,7 +32,7 @@ nav_order: 2
    Links: [arXiv: 2603.00843](https://arxiv.org/abs/2603.00843)
 
 3. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
-   Yanwei Jia, **Du Ouyang**, Huyen Pham, and Xunyu Zhou. Submitted to *Journal of Machine Learning Research*. *Alphabetical order.*<br>
+   Yanwei Jia, **Du Ouyang**, Huy&#92;^en Pham, and Xun Yu Zhou. Submitted to *Journal of Machine Learning Research*. *Alphabetical order.*<br>
    Links: [arXiv: 2606.24999](https://arxiv.org/abs/2606.24999)
 
 4. **Quasi-Monte Carlo for SDE simulation: Error analysis and dimensionality reduction**<br>
