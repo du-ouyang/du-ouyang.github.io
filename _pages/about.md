@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Mathematics | Numerical Analysis, Stochastic Control, Reinforcement Learning, and Machine Learning
+subtitle: Ph.D. in Mathematics 
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
   limit: 0
 ---
 
-My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning. My work includes continuous-time reinforcement learning, stochastic control and optimization, learning-based numerical methods for PDEs, quasi-Monte Carlo methods for high-dimensional integration and simulation.
+My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning, quasi-Monte Carlo methods.
 
 I received my Ph.D. in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University in 2026, where I was advised by Prof. Xiaoqun Wang.
 
