@@ -20,7 +20,7 @@ I am **Du Ouyang**, a Ph.D. graduate in Mathematics with Distinction from the De
 - Reinforcement Learning
 - Machine Learning
 
-See my complete [publication list](/publications/).
+See my complete [research and publication list](/research/).
 
 ## Education
 

@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: published papers and working papers.
+permalink: /research/
+title: research
+description: research interests, published papers, and working papers.
 nav: true
 nav_order: 2
 ---
+
+My research lies at the intersection of numerical analysis, stochastic control, reinforcement learning, and machine learning. I am particularly interested in quasi-Monte Carlo methods for high-dimensional integration and stochastic differential equations, continuous-time reinforcement learning and stochastic optimization, and learning-based numerical methods for nonlinear partial differential equations.
 
 ## Published Papers
 
