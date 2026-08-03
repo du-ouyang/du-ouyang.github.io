@@ -13,6 +13,15 @@ description: Academic CV for Du Ouyang.
 
 I am **Du Ouyang**, a Ph.D. graduate in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University, supervised by Prof. Xiaoqun Wang.
 
+## Research Interests
+
+- Numerical Analysis
+- Stochastic Control
+- Reinforcement Learning
+- Machine Learning
+
+See my complete [publication list](/publications/).
+
 ## Education
 
 **Tsinghua University**, Department of Mathematical Sciences  
@@ -25,13 +34,13 @@ Sep. 2021 -- Jun. 2026
 Bachelor of Mathematics and Applied Mathematics  
 Sep. 2017 -- Jun. 2021
 
-## Academic Exchange
+## Visiting Experience
 
 **The Chinese University of Hong Kong**<br>
 Visiting Ph.D. Student, advised by Prof. Yanwei Jia<br>
 Sep. 2024 -- Mar. 2025; Jul. 2025 -- Feb. 2026
 
-- Conducted research on continuous-time reinforcement learning and stochastic policy approximation.
+- Conducted research on continuous-time reinforcement learning.
 
 ## Teaching
 
@@ -41,10 +50,22 @@ Sep. 2024 -- Mar. 2025; Jul. 2025 -- Feb. 2026
 - Probability Theory and Mathematical Statistics, Fall 2021 and Fall 2023.
 - Probability Theory, Spring 2023.
 
+## Academic Presentations
+
+- **Recent Advances in the quasi-Monte Carlo Methods**, South China University of Technology, September 2023.
+- **The 15th POMS-HK International Conference**, The Chinese University of Hong Kong, January 2025.
+- **The 9th PKU-NUS Annual International Conference**, Peking University, May 2025.
+- **The 15th International Conference on Monte Carlo Methods and Applications (MCM 2025)**, Illinois Institute of Technology, Chicago, August 2025.
+- **17th International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing (MCQMC 2026)**, The University of Edinburgh, Edinburgh, June 2026.
+
+## Additional Experience
+
+- Captain of the Football Team of the Department of Mathematical Sciences, Tsinghua University, 2023.
+
 ## Awards
 
-- Outstanding Doctoral Dissertation Award, Tsinghua University, 2026.
-- Outstanding Ph.D. Graduate (Top 5%), Tsinghua University, 2026.
 - National Scholarship for Doctoral Students, Tsinghua University, 2024.
 - THU Postgraduate Excellency Scholarship First Prize, Tsinghua University, 2023 and 2025.
 - Excellent TA Award, Department of Mathematical Sciences, Tsinghua University, 2023.
+- Outstanding Ph.D. Graduate (Top 5%), Tsinghua University, 2026.
+- Outstanding Doctoral Dissertation Award, Tsinghua University, 2026.
