@@ -25,7 +25,7 @@ latest_posts:
   limit: 0
 ---
 
-My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning. My work includes quasi-Monte Carlo methods for high-dimensional integration and simulation, continuous-time reinforcement learning and stochastic optimization, and learning-based numerical methods for nonlinear partial differential equations.
+My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning. My work includes continuous-time reinforcement learning, stochastic control and optimization, learning-based numerical methods for PDEs, quasi-Monte Carlo methods for high-dimensional integration and simulation.
 
 I received my Ph.D. in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University in 2026, where I was advised by Prof. Xiaoqun Wang.
 
