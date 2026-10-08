@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><a href="mailto:duouyang99@outlook.com">duouyang99@outlook.com</a></p>
+    <p><a href="mailto:du.ouyang@polytechnique.edu">du.ouyang@polytechnique.edu</a></p>
 
 selected_papers: true
 social: true
