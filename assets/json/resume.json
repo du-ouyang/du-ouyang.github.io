@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Du Ouyang",
-    "label": "Ph.D. in Mathematics",
+    "label": "Postdoctoral Researcher at CMAP, École Polytechnique",
     "image": "",
     "email": "duouyang99@outlook.com",
-    "summary": "Ph.D. graduate in Mathematics with Distinction from Tsinghua University. My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning.",
+    "summary": "Postdoctoral researcher at CMAP, École Polytechnique, working with Prof. Huyên Pham. Ph.D. in Mathematics with Distinction from Tsinghua University. My research interests are numerical analysis, stochastic control, reinforcement learning, machine learning, and quasi-Monte Carlo methods.",
     "profiles": [
       {
         "network": "GitHub",
@@ -14,6 +14,19 @@
     ]
   },
   "work": [
+    {
+      "name": "École Polytechnique, Centre de Mathématiques Appliquées (CMAP)",
+      "position": "Postdoctoral Researcher",
+      "summary": "Working with Prof. Huyên Pham.",
+      "url": "https://sites.google.com/site/phamxuanhuyen/"
+    },
+    {
+      "name": "The Chinese University of Hong Kong, Department of Systems Engineering and Engineering Management (SEEM)",
+      "position": "Research Associate",
+      "location": "Hong Kong",
+      "startDate": "2026-09",
+      "endDate": "2026-10"
+    },
     {
       "name": "The Chinese University of Hong Kong",
       "position": "Visiting Ph.D. Student",
@@ -103,6 +116,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Understanding Quasi-Monte Carlo Performance in SDE Simulation: An Effective Dimension Perspective",
+      "publisher": "Preprint",
+      "releaseDate": "2026-08",
+      "url": "https://www.researchgate.net/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective",
+      "summary": "With Xiaoqun Wang."
+    },
     {
       "name": "Achieving high convergence rates by quasi-Monte Carlo and importance sampling for unbounded integrands",
       "publisher": "SIAM Journal on Numerical Analysis",

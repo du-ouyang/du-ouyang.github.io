@@ -11,7 +11,7 @@ description: Academic CV for Du Ouyang.
 
 ## About
 
-I am **Du Ouyang**, a Ph.D. graduate in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University, supervised by Prof. Xiaoqun Wang.
+I am **Du Ouyang**, a postdoctoral researcher at CMAP, École Polytechnique, working with Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/). I received my Ph.D. in Mathematics with Distinction from Tsinghua University in 2026, supervised by Prof. Xiaoqun Wang.
 
 ## Research Interests
 
@@ -33,6 +33,16 @@ Sep. 2021 -- Jun. 2026
 **Wuhan University**, School of Mathematics and Statistics  
 Bachelor of Mathematics and Applied Mathematics  
 Sep. 2017 -- Jun. 2021
+
+## Research Experience
+
+**École Polytechnique**, Centre de Mathématiques Appliquées (CMAP)<br>
+Postdoctoral Researcher, working with Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/)<br>
+Current position
+
+**The Chinese University of Hong Kong**, Department of Systems Engineering and Engineering Management (SEEM)<br>
+Research Associate<br>
+Sep. 2026 -- Oct. 2026
 
 ## Visiting Experience
 

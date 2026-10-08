@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. in Mathematics 
+subtitle: Postdoctoral Researcher at CMAP, École Polytechnique
 
 profile:
   align: right
@@ -25,7 +25,9 @@ latest_posts:
   limit: 0
 ---
 
-My research interests are numerical analysis, stochastic control, reinforcement learning, and machine learning, quasi-Monte Carlo methods.
+I am a postdoctoral researcher at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique, working with Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/).
+
+My research interests are numerical analysis, stochastic control, reinforcement learning, machine learning, and quasi-Monte Carlo methods.
 
 I received my Ph.D. in Mathematics with Distinction from the Department of Mathematical Sciences at Tsinghua University in 2026, where I was advised by Prof. Xiaoqun Wang.
 
