@@ -37,20 +37,19 @@ Sep. 2017 -- Jun. 2021
 ## Research Experience
 
 **École Polytechnique**, Centre de Mathématiques Appliquées (CMAP)<br>
-Postdoctoral Researcher, working with Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/)<br>
+Postdoctoral Researcher, advised by Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/)<br>
 Current position
 
 **The Chinese University of Hong Kong**, Department of Systems Engineering and Engineering Management (SEEM)<br>
-Research Associate<br>
+Research Associate, advised by Prof. [Yanwei Jia](https://sites.google.com/view/yanwei-jia)<br>
 Sep. 2026 -- Oct. 2026
 
 ## Visiting Experience
 
 **The Chinese University of Hong Kong**<br>
-Visiting Ph.D. Student, advised by Prof. Yanwei Jia<br>
+Visiting Ph.D. Student, advised by Prof. [Yanwei Jia](https://sites.google.com/view/yanwei-jia)<br>
 Sep. 2024 -- Mar. 2025; Jul. 2025 -- Feb. 2026
 
-- Conducted research on continuous-time reinforcement learning.
 
 ## Teaching
 
