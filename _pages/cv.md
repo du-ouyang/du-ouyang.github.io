@@ -38,7 +38,7 @@ Sep. 2017 -- Jun. 2021
 
 **École Polytechnique**, Centre de Mathématiques Appliquées (CMAP)<br>
 Postdoctoral Researcher, advised by Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/)<br>
-Current position
+Oct. 2026 -- now
 
 **The Chinese University of Hong Kong**, Department of Systems Engineering and Engineering Management (SEEM)<br>
 Research Associate, advised by Prof. [Yanwei Jia](https://sites.google.com/view/yanwei-jia)<br>
