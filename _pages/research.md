@@ -26,7 +26,7 @@ My research lies at the intersection of numerical analysis, stochastic control, 
 ## Working Papers
 
 1. **Understanding Quasi-Monte Carlo Performance in SDE Simulation: An Effective Dimension Perspective**<br>
-   **Du Ouyang** and Xiaoqun Wang. Preprint, 2026.<br>
+   **Du Ouyang** and Xiaoqun Wang. Submitted, 2026.<br>
    Links: [ResearchGate](https://www.researchgate.net/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective) | [PDF](https://www.researchgate.net/profile/Du-Ouyang/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective/links/6ab0ec19756a0b12f4f2dd20/Understanding-Quasi-Monte-Carlo-Performance-in-SDE-Simulation-An-Effective-Dimension-Perspective.pdf)
 
 1. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
