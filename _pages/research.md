@@ -27,7 +27,7 @@ My research lies at the intersection of numerical analysis, stochastic control, 
 
 1. **Why Quasi-Monte Carlo Can Remain Effective in SDE Simulation: An Effective Dimension Perspective**<br>
    **Du Ouyang** and Xiaoqun Wang. Submitted, 2026.<br>
-   Links: [ResearchGate](https://www.researchgate.net/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective) 
+   Links: [ResearchGate](https://www.researchgate.net/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective) | [SSRN](http://dx.doi.org/10.2139/ssrn.7591678)
 
 1. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
    Yanwei Jia, **Du Ouyang**, Huyên Pham, and Xun Yu Zhou. Submitted. _Alphabetical order._<br>
