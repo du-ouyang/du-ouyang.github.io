@@ -25,7 +25,7 @@ latest_posts:
   limit: 0
 ---
 
-I am a postdoctoral researcher at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique, working with Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/).
+I am a postdoctoral researcher at the Centre de Mathématiques Appliquées (CMAP), École Polytechnique, working under the supervison of Prof. [Huyên Pham](https://sites.google.com/site/phamxuanhuyen/).
 
 My research interests are numerical analysis, stochastic control, reinforcement learning, machine learning, and quasi-Monte Carlo methods.
 
