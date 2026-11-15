@@ -26,11 +26,11 @@ My research lies at the intersection of numerical analysis, stochastic control, 
 ## Working Papers
 
 1. **Randomly shifted lattice rules for SDEs with constant diffusion: error bounds uniform in time discretization and dimension**<br>
-   **Du Ouyang**, Josef Dick, and Ziyang Ye. Preprint, 2026.<br>
+   **Du Ouyang**, Josef Dick, and Ziyang Ye. Submitted.<br>
    Links: [arXiv: 2611.07424](https://arxiv.org/abs/2611.07424)
 
 1. **Likelihood-free Schrödinger–Föllmer sampling for Bayesian inference with fixed-proposal reuse**<br>
-   Xihan Ren, Zhijian He, and **Du Ouyang**. Preprint, 2026.<br>
+   Xihan Ren, Zhijian He, and **Du Ouyang**. Submitted.<br>
    Links: [arXiv: 2611.01271](https://arxiv.org/abs/2611.01271)
 
 1. **Why Quasi-Monte Carlo Can Remain Effective in SDE Simulation: An Effective Dimension Perspective**<br>
