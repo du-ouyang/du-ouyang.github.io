@@ -29,35 +29,35 @@ My research lies at the intersection of numerical analysis, stochastic control, 
    **Du Ouyang**, Josef Dick, and Ziyang Ye. Submitted.<br>
    Links: [arXiv: 2611.07424](https://arxiv.org/abs/2611.07424)
 
-1. **Likelihood-free Schrödinger–Föllmer sampling for Bayesian inference with fixed-proposal reuse**<br>
+2. **Likelihood-free Schrödinger–Föllmer sampling for Bayesian inference with fixed-proposal reuse**<br>
    Xihan Ren, Zhijian He, and **Du Ouyang**. Submitted.<br>
    Links: [arXiv: 2611.01271](https://arxiv.org/abs/2611.01271)
 
-1. **Why Quasi-Monte Carlo Can Remain Effective in SDE Simulation: An Effective Dimension Perspective**<br>
+3. **Why Quasi-Monte Carlo Can Remain Effective in SDE Simulation: An Effective Dimension Perspective**<br>
    **Du Ouyang** and Xiaoqun Wang. Submitted, 2026.<br>
    Links: [ResearchGate](https://www.researchgate.net/publication/414529043_Understanding_Quasi-Monte_Carlo_Performance_in_SDE_Simulation_An_Effective_Dimension_Perspective) | [SSRN](http://dx.doi.org/10.2139/ssrn.7591678)
 
-1. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
+4. **A zeroth-order deep learning method for fully nonlinear parabolic partial differential equations with unknown coefficients**<br>
    Yanwei Jia, **Du Ouyang**, Huyên Pham, and Xun Yu Zhou. Submitted. _Alphabetical order._<br>
    Links: [arXiv: 2606.24999](https://arxiv.org/abs/2606.24999)
 
-2. **Convergence and regret of the policy gradient for multi-armed bandits in diffusion environment**<br>
+5. **Convergence and regret of the policy gradient for multi-armed bandits in diffusion environment**<br>
    Yanwei Jia and **Du Ouyang**. Submitted. _Alphabetical order._<br>
    Links: [arXiv: 2607.29593](https://arxiv.org/abs/2607.29593)
 
-3. **Quasi-Monte Carlo for SDE simulation: Error analysis and dimensionality reduction**<br>
+6. **Quasi-Monte Carlo for SDE simulation: Error analysis and dimensionality reduction**<br>
    **Du Ouyang**, Zexin Pan, and Zhijian He. Submitted.<br>
    Links: [arXiv: 2606.24207](https://arxiv.org/abs/2606.24207)
 
-4. **Quasi-Monte Carlo integration over $\mathbb{R}^s$ with boundary-damping importance sampling**<br>
+7. **Quasi-Monte Carlo integration over $\mathbb{R}^s$ with boundary-damping importance sampling**<br>
    Zexin Pan, **Du Ouyang**, and Zhijian He. Submitted.<br>
    Links: [arXiv: 2509.07509](https://arxiv.org/abs/2509.07509)
 
-5. **Uncertainty quantification using importance-sampled quasi-Monte Carlo with dimension-independent convergence rates**<br>
+8. **Uncertainty quantification using importance-sampled quasi-Monte Carlo with dimension-independent convergence rates**<br>
    Zexin Pan, **Du Ouyang**, and Zhijian He. Submitted.<br>
    Links: [arXiv: 2603.00843](https://arxiv.org/abs/2603.00843)
 
-6. **Adaptive Two-Level Quasi-Monte Carlo for Soft Actor-Critic**<br>
+9. **Adaptive Two-Level Quasi-Monte Carlo for Soft Actor-Critic**<br>
    **Du Ouyang**, Zhenpeng Shi, Aodong Guo, Huaze Tang, Hejin Wang, Chao Wang, and Wenbo Ding.<br>
    _ICML 2024 Workshop: Aligning Reinforcement Learning Experimentalists and Theorists_.<br>
    Links: [OpenReview](https://openreview.net/forum?id=WTSMxwa0Zt)
